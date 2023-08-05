@@ -8,7 +8,9 @@
 
 ! Change the localhost settings and change username and password  in the db.php file
 
-! finally run the file you can get the contact_us form ...****
+! After all the changes you need to run the contact_us_form.php file then you can get contact_us form ...****
+
+# Thanks Happy coding
 
 
 
